@@ -9,7 +9,7 @@ public class cool8 {
 		// TODO Auto-generated method stub
 		System.out.println("hello world");
 		
-System.setProperty("webdriver.chrome.driver", "D:\\Selenium\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "D:\\Selenium\\chromedriver.exe");
 		
 		WebDriver driver= new ChromeDriver();
 		
